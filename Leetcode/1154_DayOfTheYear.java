@@ -1,3 +1,7 @@
+/* Given a string date representing a Gregorian calendar date formatted as YYYY-MM-DD,
+**return the day number of the year.
+**/
+
 class Solution {
     public int dayOfYear(String date) {
         int febDays = 28;
